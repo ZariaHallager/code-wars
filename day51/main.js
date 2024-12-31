@@ -7,7 +7,6 @@
 //     args[0] = args[1];
 //     args[1] = temp;
 // }
-
 // Test cases
 // var arr = [1, 2];
 // swapValues(arr);
@@ -15,7 +14,6 @@
 // console.log(arr[1]); // Expected: 1
 // Task:
 // Fix the swapValues function to swap the values of the first and second argument and return an array containing them.
-
 // Problem
 function swapValues() {
     return arguments[0].reverse();
