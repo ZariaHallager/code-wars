@@ -8,5 +8,4 @@
 
 function arrMultiply(arr) {
     return String(arr[0] * arr[1]);
-
 }
